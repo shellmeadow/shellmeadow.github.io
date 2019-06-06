@@ -1,6 +1,6 @@
 ---
-published: true
+layout: post
+title: My second post!
 ---
-## My second post
 
-I guess this is how a blog works
+This won't be a ghost town for much longer....
